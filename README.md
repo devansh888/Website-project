@@ -1,2 +1,6 @@
 # Website-project
-Website that includes notes, links to video lecure and coureses links.
+Website that includes -
+*notes
+*tutorial links
+*youtube lectures
+*etc..
